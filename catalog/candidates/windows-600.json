@@ -1,12 +1,12 @@
 {
   "format": "installrouteur.catalog.v1",
   "catalog_version": "0.1.0",
-  "generated_at": "2026-09-29T16:45:27Z",
+  "generated_at": "2026-09-29T16:58:52Z",
   "entries": [
     {
       "canonical_name": "Microsoft 365 Apps",
       "aliases": [
-        "365 Apps"
+        "Microsoft 365 Apps"
       ],
       "category": "Bureautique",
       "subcategory": "Suite bureautique"
@@ -142,7 +142,7 @@
     {
       "canonical_name": "Corel WordPerfect",
       "aliases": [
-        "WordPerfect"
+        "Corel WordPerfect"
       ],
       "category": "Bureautique",
       "subcategory": "Suite bureautique"
@@ -166,7 +166,7 @@
     {
       "canonical_name": "Adobe Acrobat Reader",
       "aliases": [
-        "Acrobat Reader"
+        "Adobe Acrobat Reader"
       ],
       "category": "Bureautique",
       "subcategory": "PDF"
@@ -174,7 +174,7 @@
     {
       "canonical_name": "Adobe Acrobat Pro",
       "aliases": [
-        "Acrobat Pro"
+        "Adobe Acrobat Pro"
       ],
       "category": "Bureautique",
       "subcategory": "PDF"
@@ -214,7 +214,7 @@
     {
       "canonical_name": "Wondershare PDFelement",
       "aliases": [
-        "PDFelement"
+        "Wondershare PDFelement"
       ],
       "category": "Bureautique",
       "subcategory": "PDF"
@@ -326,7 +326,7 @@
     {
       "canonical_name": "Microsoft OneNote",
       "aliases": [
-        "OneNote"
+        "Microsoft OneNote"
       ],
       "category": "Bureautique",
       "subcategory": "Prise de notes"
@@ -462,7 +462,7 @@
     {
       "canonical_name": "Microsoft To Do",
       "aliases": [
-        "To Do"
+        "Microsoft To Do"
       ],
       "category": "Bureautique",
       "subcategory": "Organisation"
@@ -574,7 +574,7 @@
     {
       "canonical_name": "Adobe Lightroom Classic",
       "aliases": [
-        "Lightroom Classic"
+        "Adobe Lightroom Classic"
       ],
       "category": "Création",
       "subcategory": "Retouche d'image"
@@ -614,7 +614,7 @@
     {
       "canonical_name": "Corel PaintShop Pro",
       "aliases": [
-        "PaintShop Pro"
+        "Corel PaintShop Pro"
       ],
       "category": "Création",
       "subcategory": "Retouche d'image"
@@ -726,7 +726,7 @@
     {
       "canonical_name": "Adobe Bridge",
       "aliases": [
-        "Bridge"
+        "Adobe Bridge"
       ],
       "category": "Création",
       "subcategory": "Retouche d'image"
@@ -774,7 +774,7 @@
     {
       "canonical_name": "Adobe Illustrator",
       "aliases": [
-        "Illustrator"
+        "Adobe Illustrator"
       ],
       "category": "Création",
       "subcategory": "Dessin et illustration"
@@ -806,7 +806,7 @@
     {
       "canonical_name": "Xara Designer Pro",
       "aliases": [
-        "Designer Pro"
+        "Xara Designer Pro"
       ],
       "category": "Création",
       "subcategory": "Dessin et illustration"
@@ -910,7 +910,7 @@
     {
       "canonical_name": "Adobe Fresco",
       "aliases": [
-        "Fresco"
+        "Adobe Fresco"
       ],
       "category": "Création",
       "subcategory": "Dessin et illustration"
@@ -918,7 +918,7 @@
     {
       "canonical_name": "Adobe InDesign",
       "aliases": [
-        "InDesign"
+        "Adobe InDesign"
       ],
       "category": "Création",
       "subcategory": "Publication"
@@ -966,7 +966,7 @@
     {
       "canonical_name": "Adobe FrameMaker",
       "aliases": [
-        "FrameMaker"
+        "Adobe FrameMaker"
       ],
       "category": "Création",
       "subcategory": "Publication"
@@ -982,7 +982,7 @@
     {
       "canonical_name": "Microsoft Visio",
       "aliases": [
-        "Visio"
+        "Microsoft Visio"
       ],
       "category": "Création",
       "subcategory": "Publication"
@@ -1070,7 +1070,7 @@
     {
       "canonical_name": "Autodesk 3ds Max",
       "aliases": [
-        "3ds Max"
+        "Autodesk 3ds Max"
       ],
       "category": "Création",
       "subcategory": "Modélisation 3D"
@@ -1078,7 +1078,7 @@
     {
       "canonical_name": "Autodesk Maya",
       "aliases": [
-        "Maya"
+        "Autodesk Maya"
       ],
       "category": "Création",
       "subcategory": "Modélisation 3D"
@@ -1334,7 +1334,7 @@
     {
       "canonical_name": "Autodesk Revit",
       "aliases": [
-        "Revit"
+        "Autodesk Revit"
       ],
       "category": "Création",
       "subcategory": "CAO"
@@ -1374,7 +1374,7 @@
     {
       "canonical_name": "Siemens NX",
       "aliases": [
-        "NX"
+        "Siemens NX"
       ],
       "category": "Création",
       "subcategory": "CAO"
@@ -1382,7 +1382,7 @@
     {
       "canonical_name": "Bentley MicroStation",
       "aliases": [
-        "MicroStation"
+        "Bentley MicroStation"
       ],
       "category": "Création",
       "subcategory": "CAO"
@@ -1398,7 +1398,7 @@
     {
       "canonical_name": "Autodesk Inventor",
       "aliases": [
-        "Inventor"
+        "Autodesk Inventor"
       ],
       "category": "Création",
       "subcategory": "CAO"
@@ -1422,7 +1422,7 @@
     {
       "canonical_name": "Adobe Audition",
       "aliases": [
-        "Audition"
+        "Adobe Audition"
       ],
       "category": "Création",
       "subcategory": "Audio"
@@ -1430,7 +1430,7 @@
     {
       "canonical_name": "Avid Pro Tools",
       "aliases": [
-        "Pro Tools"
+        "Avid Pro Tools"
       ],
       "category": "Création",
       "subcategory": "Audio"
@@ -1438,7 +1438,7 @@
     {
       "canonical_name": "Steinberg Cubase",
       "aliases": [
-        "Cubase"
+        "Steinberg Cubase"
       ],
       "category": "Création",
       "subcategory": "Audio"
@@ -1446,7 +1446,7 @@
     {
       "canonical_name": "Steinberg Nuendo",
       "aliases": [
-        "Nuendo"
+        "Steinberg Nuendo"
       ],
       "category": "Création",
       "subcategory": "Audio"
@@ -1542,7 +1542,7 @@
     {
       "canonical_name": "Magix Music Maker",
       "aliases": [
-        "Music Maker"
+        "Magix Music Maker"
       ],
       "category": "Création",
       "subcategory": "Audio"
@@ -1606,7 +1606,7 @@
     {
       "canonical_name": "Microsoft Visual Studio",
       "aliases": [
-        "Visual Studio"
+        "Microsoft Visual Studio"
       ],
       "category": "Développement",
       "subcategory": "IDE"
@@ -1654,7 +1654,7 @@
     {
       "canonical_name": "JetBrains Rider",
       "aliases": [
-        "Rider"
+        "JetBrains Rider"
       ],
       "category": "Développement",
       "subcategory": "IDE"
@@ -1750,7 +1750,7 @@
     {
       "canonical_name": "Embarcadero Dev-C++",
       "aliases": [
-        "Dev-C++"
+        "Embarcadero Dev-C++"
       ],
       "category": "Développement",
       "subcategory": "IDE"
@@ -2286,7 +2286,7 @@
     {
       "canonical_name": "Oracle SQL Developer",
       "aliases": [
-        "SQL Developer"
+        "Oracle SQL Developer"
       ],
       "category": "Développement",
       "subcategory": "Base de données"
@@ -2582,7 +2582,7 @@
     {
       "canonical_name": "Google Cloud CLI",
       "aliases": [
-        "Cloud CLI"
+        "Google Cloud CLI"
       ],
       "category": "Développement",
       "subcategory": "Containers et DevOps"
@@ -2654,7 +2654,7 @@
     {
       "canonical_name": "Microsoft .NET SDK",
       "aliases": [
-        ".NET SDK"
+        "Microsoft .NET SDK"
       ],
       "category": "Développement",
       "subcategory": "SDK et compilation"
@@ -2926,7 +2926,7 @@
     {
       "canonical_name": "Apple Music",
       "aliases": [
-        "Music"
+        "Apple Music"
       ],
       "category": "Multimédia",
       "subcategory": "Lecture audio"
@@ -3006,7 +3006,7 @@
     {
       "canonical_name": "Google Chrome",
       "aliases": [
-        "Chrome"
+        "Google Chrome"
       ],
       "category": "Réseau",
       "subcategory": "Navigateur web"
@@ -3014,7 +3014,7 @@
     {
       "canonical_name": "Mozilla Firefox",
       "aliases": [
-        "Firefox"
+        "Mozilla Firefox"
       ],
       "category": "Réseau",
       "subcategory": "Navigateur web"
@@ -3022,7 +3022,7 @@
     {
       "canonical_name": "Microsoft Edge",
       "aliases": [
-        "Edge"
+        "Microsoft Edge"
       ],
       "category": "Réseau",
       "subcategory": "Navigateur web"
@@ -3302,7 +3302,7 @@
     {
       "canonical_name": "Google Drive",
       "aliases": [
-        "Drive"
+        "Google Drive"
       ],
       "category": "Réseau",
       "subcategory": "Transfert et cloud"
@@ -3310,7 +3310,7 @@
     {
       "canonical_name": "Microsoft OneDrive",
       "aliases": [
-        "OneDrive"
+        "Microsoft OneDrive"
       ],
       "category": "Réseau",
       "subcategory": "Transfert et cloud"
@@ -3654,7 +3654,7 @@
     {
       "canonical_name": "Panda Dome",
       "aliases": [
-        "Dome"
+        "Panda Dome"
       ],
       "category": "Sécurité",
       "subcategory": "Antivirus"
@@ -3870,7 +3870,7 @@
     {
       "canonical_name": "Zoho Vault",
       "aliases": [
-        "Vault"
+        "Zoho Vault"
       ],
       "category": "Sécurité",
       "subcategory": "Gestionnaire de mots de passe"
@@ -3966,7 +3966,7 @@
     {
       "canonical_name": "Oracle VM VirtualBox",
       "aliases": [
-        "VM VirtualBox"
+        "Oracle VM VirtualBox"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -3974,7 +3974,7 @@
     {
       "canonical_name": "VMware Workstation Pro",
       "aliases": [
-        "Workstation Pro"
+        "VMware Workstation Pro"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -4062,7 +4062,7 @@
     {
       "canonical_name": "VMware Horizon Client",
       "aliases": [
-        "Horizon Client"
+        "VMware Horizon Client"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -4070,7 +4070,7 @@
     {
       "canonical_name": "Microsoft Remote Desktop",
       "aliases": [
-        "Remote Desktop"
+        "Microsoft Remote Desktop"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -4086,7 +4086,7 @@
     {
       "canonical_name": "VMware Remote Console",
       "aliases": [
-        "Remote Console"
+        "VMware Remote Console"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -4094,7 +4094,7 @@
     {
       "canonical_name": "VMware Tools",
       "aliases": [
-        "Tools"
+        "VMware Tools"
       ],
       "category": "Système",
       "subcategory": "Virtualisation"
@@ -4262,7 +4262,7 @@
     {
       "canonical_name": "Microsoft PowerToys",
       "aliases": [
-        "PowerToys"
+        "Microsoft PowerToys"
       ],
       "category": "Système",
       "subcategory": "Diagnostic"
@@ -4334,7 +4334,7 @@
     {
       "canonical_name": "Logitech G HUB",
       "aliases": [
-        "G HUB"
+        "Logitech G HUB"
       ],
       "category": "Système",
       "subcategory": "Pilotes et matériel"
@@ -4342,7 +4342,7 @@
     {
       "canonical_name": "Razer Synapse",
       "aliases": [
-        "Synapse"
+        "Razer Synapse"
       ],
       "category": "Système",
       "subcategory": "Pilotes et matériel"
@@ -4366,7 +4366,7 @@
     {
       "canonical_name": "AMD Software Adrenalin Edition",
       "aliases": [
-        "Software Adrenalin Edition"
+        "AMD Software Adrenalin Edition"
       ],
       "category": "Système",
       "subcategory": "Pilotes et matériel"
@@ -4374,7 +4374,7 @@
     {
       "canonical_name": "NVIDIA App",
       "aliases": [
-        "App"
+        "NVIDIA App"
       ],
       "category": "Système",
       "subcategory": "Pilotes et matériel"
@@ -4558,7 +4558,7 @@
     {
       "canonical_name": "AOMEI Backupper",
       "aliases": [
-        "Backupper"
+        "AOMEI Backupper"
       ],
       "category": "Utilitaire",
       "subcategory": "Sauvegarde"
