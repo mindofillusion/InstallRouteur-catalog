@@ -1,0 +1,4807 @@
+{
+  "format": "installrouteur.catalog.v1",
+  "catalog_version": "0.1.0",
+  "generated_at": "2026-09-29T16:45:27Z",
+  "entries": [
+    {
+      "canonical_name": "Microsoft 365 Apps",
+      "aliases": [
+        "365 Apps"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "LibreOffice",
+      "aliases": [
+        "LibreOffice"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Apache OpenOffice",
+      "aliases": [
+        "Apache OpenOffice"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "ONLYOFFICE Desktop Editors",
+      "aliases": [
+        "ONLYOFFICE Desktop Editors"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "WPS Office",
+      "aliases": [
+        "WPS Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "SoftMaker Office",
+      "aliases": [
+        "SoftMaker Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "FreeOffice",
+      "aliases": [
+        "FreeOffice"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "OfficeSuite",
+      "aliases": [
+        "OfficeSuite"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "MobiOffice",
+      "aliases": [
+        "MobiOffice"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Hancom Office",
+      "aliases": [
+        "Hancom Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "WordPerfect Office",
+      "aliases": [
+        "WordPerfect Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Ability Office",
+      "aliases": [
+        "Ability Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "SSuite Office",
+      "aliases": [
+        "SSuite Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Ashampoo Office",
+      "aliases": [
+        "Ashampoo Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Polaris Office",
+      "aliases": [
+        "Polaris Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Calligra Suite",
+      "aliases": [
+        "Calligra Suite"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Thinkfree Office",
+      "aliases": [
+        "Thinkfree Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Corel WordPerfect",
+      "aliases": [
+        "WordPerfect"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Kingsoft Office",
+      "aliases": [
+        "Kingsoft Office"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "TextMaker",
+      "aliases": [
+        "TextMaker"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Suite bureautique"
+    },
+    {
+      "canonical_name": "Adobe Acrobat Reader",
+      "aliases": [
+        "Acrobat Reader"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Adobe Acrobat Pro",
+      "aliases": [
+        "Acrobat Pro"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Foxit PDF Reader",
+      "aliases": [
+        "Foxit PDF Reader"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Foxit PDF Editor",
+      "aliases": [
+        "Foxit PDF Editor"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "PDF-XChange Editor",
+      "aliases": [
+        "PDF-XChange Editor"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Nitro PDF Pro",
+      "aliases": [
+        "Nitro PDF Pro"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Wondershare PDFelement",
+      "aliases": [
+        "PDFelement"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Soda PDF",
+      "aliases": [
+        "Soda PDF"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "PDF24 Creator",
+      "aliases": [
+        "PDF24 Creator"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "SumatraPDF",
+      "aliases": [
+        "SumatraPDF"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Okular",
+      "aliases": [
+        "Okular"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "STDU Viewer",
+      "aliases": [
+        "STDU Viewer"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Drawboard PDF",
+      "aliases": [
+        "Drawboard PDF"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Kofax Power PDF",
+      "aliases": [
+        "Kofax Power PDF"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Sejda PDF Desktop",
+      "aliases": [
+        "Sejda PDF Desktop"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "PDFsam Basic",
+      "aliases": [
+        "PDFsam Basic"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "PDF Arranger",
+      "aliases": [
+        "PDF Arranger"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Master PDF Editor",
+      "aliases": [
+        "Master PDF Editor"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "MuPDF",
+      "aliases": [
+        "MuPDF"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "PDFescape Desktop",
+      "aliases": [
+        "PDFescape Desktop"
+      ],
+      "category": "Bureautique",
+      "subcategory": "PDF"
+    },
+    {
+      "canonical_name": "Microsoft OneNote",
+      "aliases": [
+        "OneNote"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Obsidian",
+      "aliases": [
+        "Obsidian"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Notion",
+      "aliases": [
+        "Notion"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Evernote",
+      "aliases": [
+        "Evernote"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Joplin",
+      "aliases": [
+        "Joplin"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Standard Notes",
+      "aliases": [
+        "Standard Notes"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Simplenote",
+      "aliases": [
+        "Simplenote"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Logseq",
+      "aliases": [
+        "Logseq"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "CherryTree",
+      "aliases": [
+        "CherryTree"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Zim Desktop Wiki",
+      "aliases": [
+        "Zim Desktop Wiki"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Tomboy-ng",
+      "aliases": [
+        "Tomboy-ng"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Trilium Notes",
+      "aliases": [
+        "Trilium Notes"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Anytype",
+      "aliases": [
+        "Anytype"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "UpNote",
+      "aliases": [
+        "UpNote"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Boost Note",
+      "aliases": [
+        "Boost Note"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Notezilla",
+      "aliases": [
+        "Notezilla"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "CintaNotes",
+      "aliases": [
+        "CintaNotes"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Prise de notes"
+    },
+    {
+      "canonical_name": "Microsoft To Do",
+      "aliases": [
+        "To Do"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Todoist",
+      "aliases": [
+        "Todoist"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "TickTick",
+      "aliases": [
+        "TickTick"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Trello",
+      "aliases": [
+        "Trello"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Asana",
+      "aliases": [
+        "Asana"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "ClickUp",
+      "aliases": [
+        "ClickUp"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Clockify",
+      "aliases": [
+        "Clockify"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Toggl Track",
+      "aliases": [
+        "Toggl Track"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "RescueTime",
+      "aliases": [
+        "RescueTime"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Freeplane",
+      "aliases": [
+        "Freeplane"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "FreeMind",
+      "aliases": [
+        "FreeMind"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "XMind",
+      "aliases": [
+        "XMind"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "MindManager",
+      "aliases": [
+        "MindManager"
+      ],
+      "category": "Bureautique",
+      "subcategory": "Organisation"
+    },
+    {
+      "canonical_name": "Adobe Photoshop",
+      "aliases": [
+        "Photoshop"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Adobe Lightroom Classic",
+      "aliases": [
+        "Lightroom Classic"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "GIMP",
+      "aliases": [
+        "GIMP"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Krita",
+      "aliases": [
+        "Krita"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Paint.NET",
+      "aliases": [
+        "Paint.NET"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Affinity Photo",
+      "aliases": [
+        "Affinity Photo"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Corel PaintShop Pro",
+      "aliases": [
+        "PaintShop Pro"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "DxO PhotoLab",
+      "aliases": [
+        "DxO PhotoLab"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Capture One",
+      "aliases": [
+        "Capture One"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "ON1 Photo RAW",
+      "aliases": [
+        "ON1 Photo RAW"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "RawTherapee",
+      "aliases": [
+        "RawTherapee"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "darktable",
+      "aliases": [
+        "darktable"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Luminar Neo",
+      "aliases": [
+        "Luminar Neo"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Topaz Photo AI",
+      "aliases": [
+        "Topaz Photo AI"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Topaz Gigapixel AI",
+      "aliases": [
+        "Topaz Gigapixel AI"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "ACDSee Photo Studio",
+      "aliases": [
+        "ACDSee Photo Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "XnView MP",
+      "aliases": [
+        "XnView MP"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "FastStone Image Viewer",
+      "aliases": [
+        "FastStone Image Viewer"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "IrfanView",
+      "aliases": [
+        "IrfanView"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "digiKam",
+      "aliases": [
+        "digiKam"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Adobe Bridge",
+      "aliases": [
+        "Bridge"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Zoner Photo Studio",
+      "aliases": [
+        "Zoner Photo Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Fotor",
+      "aliases": [
+        "Fotor"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "CyberLink PhotoDirector",
+      "aliases": [
+        "CyberLink PhotoDirector"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Pinta",
+      "aliases": [
+        "Pinta"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Artweaver",
+      "aliases": [
+        "Artweaver"
+      ],
+      "category": "Création",
+      "subcategory": "Retouche d'image"
+    },
+    {
+      "canonical_name": "Adobe Illustrator",
+      "aliases": [
+        "Illustrator"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Affinity Designer",
+      "aliases": [
+        "Affinity Designer"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "CorelDRAW",
+      "aliases": [
+        "CorelDRAW"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Inkscape",
+      "aliases": [
+        "Inkscape"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Xara Designer Pro",
+      "aliases": [
+        "Designer Pro"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Boxy SVG",
+      "aliases": [
+        "Boxy SVG"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Synfig Studio",
+      "aliases": [
+        "Synfig Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "OpenToonz",
+      "aliases": [
+        "OpenToonz"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Pencil2D",
+      "aliases": [
+        "Pencil2D"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Moho",
+      "aliases": [
+        "Moho"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Clip Studio Paint",
+      "aliases": [
+        "Clip Studio Paint"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "MediBang Paint Pro",
+      "aliases": [
+        "MediBang Paint Pro"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "FireAlpaca",
+      "aliases": [
+        "FireAlpaca"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Paint Tool SAI",
+      "aliases": [
+        "Paint Tool SAI"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "ArtRage Vitae",
+      "aliases": [
+        "ArtRage Vitae"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Rebelle",
+      "aliases": [
+        "Rebelle"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Black Ink",
+      "aliases": [
+        "Black Ink"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Adobe Fresco",
+      "aliases": [
+        "Fresco"
+      ],
+      "category": "Création",
+      "subcategory": "Dessin et illustration"
+    },
+    {
+      "canonical_name": "Adobe InDesign",
+      "aliases": [
+        "InDesign"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Affinity Publisher",
+      "aliases": [
+        "Affinity Publisher"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Scribus",
+      "aliases": [
+        "Scribus"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "QuarkXPress",
+      "aliases": [
+        "QuarkXPress"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Canva Desktop",
+      "aliases": [
+        "Canva Desktop"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "VivaDesigner",
+      "aliases": [
+        "VivaDesigner"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Adobe FrameMaker",
+      "aliases": [
+        "FrameMaker"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "MadCap Flare",
+      "aliases": [
+        "MadCap Flare"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Microsoft Visio",
+      "aliases": [
+        "Visio"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "yEd Graph Editor",
+      "aliases": [
+        "yEd Graph Editor"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Dia",
+      "aliases": [
+        "Dia"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "draw.io Desktop",
+      "aliases": [
+        "draw.io Desktop"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "EdrawMax",
+      "aliases": [
+        "EdrawMax"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "SmartDraw",
+      "aliases": [
+        "SmartDraw"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "MiKTeX",
+      "aliases": [
+        "MiKTeX"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "TeXstudio",
+      "aliases": [
+        "TeXstudio"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "TeXmaker",
+      "aliases": [
+        "TeXmaker"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "LyX",
+      "aliases": [
+        "LyX"
+      ],
+      "category": "Création",
+      "subcategory": "Publication"
+    },
+    {
+      "canonical_name": "Blender",
+      "aliases": [
+        "Blender"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Autodesk 3ds Max",
+      "aliases": [
+        "3ds Max"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Autodesk Maya",
+      "aliases": [
+        "Maya"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Cinema 4D",
+      "aliases": [
+        "Cinema 4D"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "ZBrush",
+      "aliases": [
+        "ZBrush"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Houdini",
+      "aliases": [
+        "Houdini"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "SketchUp",
+      "aliases": [
+        "SketchUp"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Rhino 3D",
+      "aliases": [
+        "Rhino 3D"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Fusion 360",
+      "aliases": [
+        "Fusion 360"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Wings 3D",
+      "aliases": [
+        "Wings 3D"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Modo",
+      "aliases": [
+        "Modo"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Substance 3D Painter",
+      "aliases": [
+        "Substance 3D Painter"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Substance 3D Designer",
+      "aliases": [
+        "Substance 3D Designer"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Marvelous Designer",
+      "aliases": [
+        "Marvelous Designer"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Clo3D",
+      "aliases": [
+        "Clo3D"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "KeyShot",
+      "aliases": [
+        "KeyShot"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Twinmotion",
+      "aliases": [
+        "Twinmotion"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Daz Studio",
+      "aliases": [
+        "Daz Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Poser",
+      "aliases": [
+        "Poser"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "MeshLab",
+      "aliases": [
+        "MeshLab"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "Meshmixer",
+      "aliases": [
+        "Meshmixer"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "FreeCAD 3D",
+      "aliases": [
+        "FreeCAD 3D"
+      ],
+      "category": "Création",
+      "subcategory": "Modélisation 3D"
+    },
+    {
+      "canonical_name": "AutoCAD",
+      "aliases": [
+        "AutoCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "AutoCAD LT",
+      "aliases": [
+        "AutoCAD LT"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "BricsCAD",
+      "aliases": [
+        "BricsCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "DraftSight",
+      "aliases": [
+        "DraftSight"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "FreeCAD",
+      "aliases": [
+        "FreeCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "LibreCAD",
+      "aliases": [
+        "LibreCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "QCAD",
+      "aliases": [
+        "QCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "nanoCAD",
+      "aliases": [
+        "nanoCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "progeCAD",
+      "aliases": [
+        "progeCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "ZWCAD",
+      "aliases": [
+        "ZWCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "GstarCAD",
+      "aliases": [
+        "GstarCAD"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Archicad",
+      "aliases": [
+        "Archicad"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Autodesk Revit",
+      "aliases": [
+        "Revit"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Vectorworks",
+      "aliases": [
+        "Vectorworks"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Chief Architect",
+      "aliases": [
+        "Chief Architect"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Tekla Structures",
+      "aliases": [
+        "Tekla Structures"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Solid Edge",
+      "aliases": [
+        "Solid Edge"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Siemens NX",
+      "aliases": [
+        "NX"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Bentley MicroStation",
+      "aliases": [
+        "MicroStation"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "KiCad",
+      "aliases": [
+        "KiCad"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Autodesk Inventor",
+      "aliases": [
+        "Inventor"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "SolidWorks",
+      "aliases": [
+        "SolidWorks"
+      ],
+      "category": "Création",
+      "subcategory": "CAO"
+    },
+    {
+      "canonical_name": "Audacity",
+      "aliases": [
+        "Audacity"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Adobe Audition",
+      "aliases": [
+        "Audition"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Avid Pro Tools",
+      "aliases": [
+        "Pro Tools"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Steinberg Cubase",
+      "aliases": [
+        "Cubase"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Steinberg Nuendo",
+      "aliases": [
+        "Nuendo"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Ableton Live",
+      "aliases": [
+        "Ableton Live"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "FL Studio",
+      "aliases": [
+        "FL Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "REAPER",
+      "aliases": [
+        "REAPER"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "PreSonus Studio One",
+      "aliases": [
+        "PreSonus Studio One"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Bitwig Studio",
+      "aliases": [
+        "Bitwig Studio"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Cakewalk by BandLab",
+      "aliases": [
+        "Cakewalk by BandLab"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "LMMS",
+      "aliases": [
+        "LMMS"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Ardour",
+      "aliases": [
+        "Ardour"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Reason",
+      "aliases": [
+        "Reason"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Mixcraft",
+      "aliases": [
+        "Mixcraft"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Waveform",
+      "aliases": [
+        "Waveform"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Magix Music Maker",
+      "aliases": [
+        "Music Maker"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Sound Forge",
+      "aliases": [
+        "Sound Forge"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "iZotope RX",
+      "aliases": [
+        "iZotope RX"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Ocenaudio",
+      "aliases": [
+        "Ocenaudio"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Wavosaur",
+      "aliases": [
+        "Wavosaur"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "GoldWave",
+      "aliases": [
+        "GoldWave"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "WavePad",
+      "aliases": [
+        "WavePad"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "MuseScore",
+      "aliases": [
+        "MuseScore"
+      ],
+      "category": "Création",
+      "subcategory": "Audio"
+    },
+    {
+      "canonical_name": "Microsoft Visual Studio",
+      "aliases": [
+        "Visual Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Visual Studio Code",
+      "aliases": [
+        "Visual Studio Code"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "IntelliJ IDEA",
+      "aliases": [
+        "IntelliJ IDEA"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "PyCharm",
+      "aliases": [
+        "PyCharm"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "WebStorm",
+      "aliases": [
+        "WebStorm"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "PhpStorm",
+      "aliases": [
+        "PhpStorm"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "JetBrains Rider",
+      "aliases": [
+        "Rider"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "CLion",
+      "aliases": [
+        "CLion"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "GoLand",
+      "aliases": [
+        "GoLand"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "RubyMine",
+      "aliases": [
+        "RubyMine"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "DataSpell",
+      "aliases": [
+        "DataSpell"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Android Studio",
+      "aliases": [
+        "Android Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Eclipse IDE",
+      "aliases": [
+        "Eclipse IDE"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Apache NetBeans",
+      "aliases": [
+        "Apache NetBeans"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Qt Creator",
+      "aliases": [
+        "Qt Creator"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "RAD Studio",
+      "aliases": [
+        "RAD Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Delphi",
+      "aliases": [
+        "Delphi"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Lazarus",
+      "aliases": [
+        "Lazarus"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Embarcadero Dev-C++",
+      "aliases": [
+        "Dev-C++"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "CodeLite",
+      "aliases": [
+        "CodeLite"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Geany",
+      "aliases": [
+        "Geany"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "BlueJ",
+      "aliases": [
+        "BlueJ"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "MonoDevelop",
+      "aliases": [
+        "MonoDevelop"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Spyder",
+      "aliases": [
+        "Spyder"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Thonny",
+      "aliases": [
+        "Thonny"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "RStudio",
+      "aliases": [
+        "RStudio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "JupyterLab Desktop",
+      "aliases": [
+        "JupyterLab Desktop"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Unity Hub",
+      "aliases": [
+        "Unity Hub"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Godot Engine",
+      "aliases": [
+        "Godot Engine"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "GameMaker",
+      "aliases": [
+        "GameMaker"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Construct 3",
+      "aliases": [
+        "Construct 3"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Qt Design Studio",
+      "aliases": [
+        "Qt Design Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "PyScripter",
+      "aliases": [
+        "PyScripter"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Code Composer Studio",
+      "aliases": [
+        "Code Composer Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "NI LabVIEW",
+      "aliases": [
+        "NI LabVIEW"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "MATLAB",
+      "aliases": [
+        "MATLAB"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Wolfram Mathematica",
+      "aliases": [
+        "Wolfram Mathematica"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Maple",
+      "aliases": [
+        "Maple"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Arduino IDE",
+      "aliases": [
+        "Arduino IDE"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "PlatformIO",
+      "aliases": [
+        "PlatformIO"
+      ],
+      "category": "Développement",
+      "subcategory": "IDE"
+    },
+    {
+      "canonical_name": "Notepad++",
+      "aliases": [
+        "Notepad++"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Sublime Text",
+      "aliases": [
+        "Sublime Text"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "VSCodium",
+      "aliases": [
+        "VSCodium"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Vim",
+      "aliases": [
+        "Vim"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Neovim",
+      "aliases": [
+        "Neovim"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "GNU Emacs",
+      "aliases": [
+        "GNU Emacs"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "GNU Nano",
+      "aliases": [
+        "GNU Nano"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Bluefish",
+      "aliases": [
+        "Bluefish"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "RJ TextEd",
+      "aliases": [
+        "RJ TextEd"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "PSPad",
+      "aliases": [
+        "PSPad"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "UltraEdit",
+      "aliases": [
+        "UltraEdit"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "EditPlus",
+      "aliases": [
+        "EditPlus"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Kate",
+      "aliases": [
+        "Kate"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "CudaText",
+      "aliases": [
+        "CudaText"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Geany Editor",
+      "aliases": [
+        "Geany Editor"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Lite XL",
+      "aliases": [
+        "Lite XL"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "SciTE",
+      "aliases": [
+        "SciTE"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "TextPad",
+      "aliases": [
+        "TextPad"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "WinMerge",
+      "aliases": [
+        "WinMerge"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Meld",
+      "aliases": [
+        "Meld"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Beyond Compare",
+      "aliases": [
+        "Beyond Compare"
+      ],
+      "category": "Développement",
+      "subcategory": "Éditeur de code"
+    },
+    {
+      "canonical_name": "Git for Windows",
+      "aliases": [
+        "Git for Windows"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "GitHub Desktop",
+      "aliases": [
+        "GitHub Desktop"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "GitKraken",
+      "aliases": [
+        "GitKraken"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Sourcetree",
+      "aliases": [
+        "Sourcetree"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "TortoiseGit",
+      "aliases": [
+        "TortoiseGit"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "TortoiseSVN",
+      "aliases": [
+        "TortoiseSVN"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "SmartGit",
+      "aliases": [
+        "SmartGit"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Fork",
+      "aliases": [
+        "Fork"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Tower",
+      "aliases": [
+        "Tower"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Sublime Merge",
+      "aliases": [
+        "Sublime Merge"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Git Cola",
+      "aliases": [
+        "Git Cola"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Git Extensions",
+      "aliases": [
+        "Git Extensions"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Mercurial",
+      "aliases": [
+        "Mercurial"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Bazaar",
+      "aliases": [
+        "Bazaar"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Plastic SCM",
+      "aliases": [
+        "Plastic SCM"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Perforce Helix Visual Client",
+      "aliases": [
+        "Perforce Helix Visual Client"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "Fossil SCM",
+      "aliases": [
+        "Fossil SCM"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "CVSNT",
+      "aliases": [
+        "CVSNT"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "P4V",
+      "aliases": [
+        "P4V"
+      ],
+      "category": "Développement",
+      "subcategory": "Gestion de versions"
+    },
+    {
+      "canonical_name": "DBeaver",
+      "aliases": [
+        "DBeaver"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "HeidiSQL",
+      "aliases": [
+        "HeidiSQL"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "MySQL Workbench",
+      "aliases": [
+        "MySQL Workbench"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "pgAdmin 4",
+      "aliases": [
+        "pgAdmin 4"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "SQL Server Management Studio",
+      "aliases": [
+        "SQL Server Management Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Oracle SQL Developer",
+      "aliases": [
+        "SQL Developer"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Toad for Oracle",
+      "aliases": [
+        "Toad for Oracle"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Toad for SQL Server",
+      "aliases": [
+        "Toad for SQL Server"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Navicat Premium",
+      "aliases": [
+        "Navicat Premium"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "TablePlus",
+      "aliases": [
+        "TablePlus"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Beekeeper Studio",
+      "aliases": [
+        "Beekeeper Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "DB Browser for SQLite",
+      "aliases": [
+        "DB Browser for SQLite"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "SQLiteStudio",
+      "aliases": [
+        "SQLiteStudio"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Valentina Studio",
+      "aliases": [
+        "Valentina Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "MongoDB Compass",
+      "aliases": [
+        "MongoDB Compass"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Robo 3T",
+      "aliases": [
+        "Robo 3T"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Studio 3T",
+      "aliases": [
+        "Studio 3T"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Redis Insight",
+      "aliases": [
+        "Redis Insight"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "FlameRobin",
+      "aliases": [
+        "FlameRobin"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "DbGate",
+      "aliases": [
+        "DbGate"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "SQuirreL SQL Client",
+      "aliases": [
+        "SQuirreL SQL Client"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "RazorSQL",
+      "aliases": [
+        "RazorSQL"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Aqua Data Studio",
+      "aliases": [
+        "Aqua Data Studio"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "DbVisualizer",
+      "aliases": [
+        "DbVisualizer"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "SQLyog",
+      "aliases": [
+        "SQLyog"
+      ],
+      "category": "Développement",
+      "subcategory": "Base de données"
+    },
+    {
+      "canonical_name": "Docker Desktop",
+      "aliases": [
+        "Docker Desktop"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Podman Desktop",
+      "aliases": [
+        "Podman Desktop"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Rancher Desktop",
+      "aliases": [
+        "Rancher Desktop"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Minikube",
+      "aliases": [
+        "Minikube"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "kind",
+      "aliases": [
+        "kind"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Kubernetes CLI",
+      "aliases": [
+        "Kubernetes CLI"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Helm",
+      "aliases": [
+        "Helm"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "OpenShift Local",
+      "aliases": [
+        "OpenShift Local"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Vagrant",
+      "aliases": [
+        "Vagrant"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Packer",
+      "aliases": [
+        "Packer"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Terraform",
+      "aliases": [
+        "Terraform"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Ansible",
+      "aliases": [
+        "Ansible"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Pulumi",
+      "aliases": [
+        "Pulumi"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "GitLab Runner",
+      "aliases": [
+        "GitLab Runner"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "GitHub CLI",
+      "aliases": [
+        "GitHub CLI"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Azure CLI",
+      "aliases": [
+        "Azure CLI"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "AWS CLI",
+      "aliases": [
+        "AWS CLI"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Google Cloud CLI",
+      "aliases": [
+        "Cloud CLI"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "OpenTofu",
+      "aliases": [
+        "OpenTofu"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Multipass",
+      "aliases": [
+        "Multipass"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Windows Subsystem for Linux",
+      "aliases": [
+        "Windows Subsystem for Linux"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Cygwin",
+      "aliases": [
+        "Cygwin"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "MSYS2",
+      "aliases": [
+        "MSYS2"
+      ],
+      "category": "Développement",
+      "subcategory": "Containers et DevOps"
+    },
+    {
+      "canonical_name": "Node.js",
+      "aliases": [
+        "Node.js"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Python",
+      "aliases": [
+        "Python"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "OpenJDK",
+      "aliases": [
+        "OpenJDK"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Microsoft .NET SDK",
+      "aliases": [
+        ".NET SDK"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Rust",
+      "aliases": [
+        "Rust"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Go",
+      "aliases": [
+        "Go"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "PHP",
+      "aliases": [
+        "PHP"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Ruby",
+      "aliases": [
+        "Ruby"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Perl",
+      "aliases": [
+        "Perl"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "R",
+      "aliases": [
+        "R"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Julia",
+      "aliases": [
+        "Julia"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "Dart SDK",
+      "aliases": [
+        "Dart SDK"
+      ],
+      "category": "Développement",
+      "subcategory": "SDK et compilation"
+    },
+    {
+      "canonical_name": "VLC media player",
+      "aliases": [
+        "VLC media player"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "MPC-HC",
+      "aliases": [
+        "MPC-HC"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "mpv",
+      "aliases": [
+        "mpv"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "PotPlayer",
+      "aliases": [
+        "PotPlayer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "KMPlayer",
+      "aliases": [
+        "KMPlayer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "SMPlayer",
+      "aliases": [
+        "SMPlayer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "GOM Player",
+      "aliases": [
+        "GOM Player"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "Plex",
+      "aliases": [
+        "Plex"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "Kodi",
+      "aliases": [
+        "Kodi"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "MPC-BE",
+      "aliases": [
+        "MPC-BE"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "Zoom Player",
+      "aliases": [
+        "Zoom Player"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "5KPlayer",
+      "aliases": [
+        "5KPlayer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "DivX Player",
+      "aliases": [
+        "DivX Player"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "RealPlayer",
+      "aliases": [
+        "RealPlayer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "JRiver Media Center",
+      "aliases": [
+        "JRiver Media Center"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "K-Lite Codec Pack",
+      "aliases": [
+        "K-Lite Codec Pack"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "Stremio",
+      "aliases": [
+        "Stremio"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "Jellyfin Media Player",
+      "aliases": [
+        "Jellyfin Media Player"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture vidéo"
+    },
+    {
+      "canonical_name": "foobar2000",
+      "aliases": [
+        "foobar2000"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "MusicBee",
+      "aliases": [
+        "MusicBee"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "AIMP",
+      "aliases": [
+        "AIMP"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Winamp",
+      "aliases": [
+        "Winamp"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "MediaMonkey",
+      "aliases": [
+        "MediaMonkey"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "iTunes",
+      "aliases": [
+        "iTunes"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Spotify",
+      "aliases": [
+        "Spotify"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Apple Music",
+      "aliases": [
+        "Music"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "TIDAL",
+      "aliases": [
+        "TIDAL"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Deezer",
+      "aliases": [
+        "Deezer"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Qobuz",
+      "aliases": [
+        "Qobuz"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Roon",
+      "aliases": [
+        "Roon"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Clementine",
+      "aliases": [
+        "Clementine"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Strawberry",
+      "aliases": [
+        "Strawberry"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Dopamine",
+      "aliases": [
+        "Dopamine"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Quod Libet",
+      "aliases": [
+        "Quod Libet"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Audirvana",
+      "aliases": [
+        "Audirvana"
+      ],
+      "category": "Multimédia",
+      "subcategory": "Lecture audio"
+    },
+    {
+      "canonical_name": "Google Chrome",
+      "aliases": [
+        "Chrome"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Mozilla Firefox",
+      "aliases": [
+        "Firefox"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Microsoft Edge",
+      "aliases": [
+        "Edge"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Brave",
+      "aliases": [
+        "Brave"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Vivaldi",
+      "aliases": [
+        "Vivaldi"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Opera",
+      "aliases": [
+        "Opera"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Opera GX",
+      "aliases": [
+        "Opera GX"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Tor Browser",
+      "aliases": [
+        "Tor Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Waterfox",
+      "aliases": [
+        "Waterfox"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Pale Moon",
+      "aliases": [
+        "Pale Moon"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "LibreWolf",
+      "aliases": [
+        "LibreWolf"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Chromium",
+      "aliases": [
+        "Chromium"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Ungoogled Chromium",
+      "aliases": [
+        "Ungoogled Chromium"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Maxthon",
+      "aliases": [
+        "Maxthon"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Slimjet",
+      "aliases": [
+        "Slimjet"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Falkon",
+      "aliases": [
+        "Falkon"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Floorp",
+      "aliases": [
+        "Floorp"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Arc Browser",
+      "aliases": [
+        "Arc Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Sidekick",
+      "aliases": [
+        "Sidekick"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Yandex Browser",
+      "aliases": [
+        "Yandex Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Avast Secure Browser",
+      "aliases": [
+        "Avast Secure Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "DuckDuckGo Browser",
+      "aliases": [
+        "DuckDuckGo Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "Epic Privacy Browser",
+      "aliases": [
+        "Epic Privacy Browser"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "K-Meleon",
+      "aliases": [
+        "K-Meleon"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "SeaMonkey",
+      "aliases": [
+        "SeaMonkey"
+      ],
+      "category": "Réseau",
+      "subcategory": "Navigateur web"
+    },
+    {
+      "canonical_name": "FileZilla",
+      "aliases": [
+        "FileZilla"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "WinSCP",
+      "aliases": [
+        "WinSCP"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Cyberduck",
+      "aliases": [
+        "Cyberduck"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Core FTP",
+      "aliases": [
+        "Core FTP"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "CuteFTP",
+      "aliases": [
+        "CuteFTP"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Total Commander",
+      "aliases": [
+        "Total Commander"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "FreeCommander",
+      "aliases": [
+        "FreeCommander"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Double Commander",
+      "aliases": [
+        "Double Commander"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "OneCommander",
+      "aliases": [
+        "OneCommander"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Mountain Duck",
+      "aliases": [
+        "Mountain Duck"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Rclone",
+      "aliases": [
+        "Rclone"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Dropbox",
+      "aliases": [
+        "Dropbox"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Google Drive",
+      "aliases": [
+        "Drive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Microsoft OneDrive",
+      "aliases": [
+        "OneDrive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "pCloud Drive",
+      "aliases": [
+        "pCloud Drive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "MEGAsync",
+      "aliases": [
+        "MEGAsync"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Sync.com",
+      "aliases": [
+        "Sync.com"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Nextcloud Desktop",
+      "aliases": [
+        "Nextcloud Desktop"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Syncthing",
+      "aliases": [
+        "Syncthing"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Resilio Sync",
+      "aliases": [
+        "Resilio Sync"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "GoodSync",
+      "aliases": [
+        "GoodSync"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Air Explorer",
+      "aliases": [
+        "Air Explorer"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "NetDrive",
+      "aliases": [
+        "NetDrive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "RaiDrive",
+      "aliases": [
+        "RaiDrive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "WebDrive",
+      "aliases": [
+        "WebDrive"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "CloudMounter",
+      "aliases": [
+        "CloudMounter"
+      ],
+      "category": "Réseau",
+      "subcategory": "Transfert et cloud"
+    },
+    {
+      "canonical_name": "Remote Desktop Manager",
+      "aliases": [
+        "Remote Desktop Manager"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "mRemoteNG",
+      "aliases": [
+        "mRemoteNG"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "Royal TS",
+      "aliases": [
+        "Royal TS"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "AnyDesk",
+      "aliases": [
+        "AnyDesk"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "TeamViewer",
+      "aliases": [
+        "TeamViewer"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "RustDesk",
+      "aliases": [
+        "RustDesk"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "VNC Viewer",
+      "aliases": [
+        "VNC Viewer"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "TightVNC",
+      "aliases": [
+        "TightVNC"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "UltraVNC",
+      "aliases": [
+        "UltraVNC"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "RealVNC Server",
+      "aliases": [
+        "RealVNC Server"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "MobaXterm",
+      "aliases": [
+        "MobaXterm"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "Termius",
+      "aliases": [
+        "Termius"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "SecureCRT",
+      "aliases": [
+        "SecureCRT"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "PuTTY",
+      "aliases": [
+        "PuTTY"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "KiTTY",
+      "aliases": [
+        "KiTTY"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "DWService",
+      "aliases": [
+        "DWService"
+      ],
+      "category": "Réseau",
+      "subcategory": "Accès distant"
+    },
+    {
+      "canonical_name": "OpenVPN Connect",
+      "aliases": [
+        "OpenVPN Connect"
+      ],
+      "category": "Réseau",
+      "subcategory": "VPN"
+    },
+    {
+      "canonical_name": "WireGuard",
+      "aliases": [
+        "WireGuard"
+      ],
+      "category": "Réseau",
+      "subcategory": "VPN"
+    },
+    {
+      "canonical_name": "Tailscale",
+      "aliases": [
+        "Tailscale"
+      ],
+      "category": "Réseau",
+      "subcategory": "VPN"
+    },
+    {
+      "canonical_name": "Bitdefender Total Security",
+      "aliases": [
+        "Bitdefender Total Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Kaspersky Standard",
+      "aliases": [
+        "Kaspersky Standard"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "ESET NOD32 Antivirus",
+      "aliases": [
+        "ESET NOD32 Antivirus"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Norton 360",
+      "aliases": [
+        "Norton 360"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "McAfee Total Protection",
+      "aliases": [
+        "McAfee Total Protection"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Avast One",
+      "aliases": [
+        "Avast One"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "AVG Internet Security",
+      "aliases": [
+        "AVG Internet Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Avira Prime",
+      "aliases": [
+        "Avira Prime"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Malwarebytes",
+      "aliases": [
+        "Malwarebytes"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "F-Secure Internet Security",
+      "aliases": [
+        "F-Secure Internet Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Trend Micro Maximum Security",
+      "aliases": [
+        "Trend Micro Maximum Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Panda Dome",
+      "aliases": [
+        "Dome"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "G Data Total Security",
+      "aliases": [
+        "G Data Total Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Webroot SecureAnywhere",
+      "aliases": [
+        "Webroot SecureAnywhere"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "ClamWin",
+      "aliases": [
+        "ClamWin"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "HitmanPro",
+      "aliases": [
+        "HitmanPro"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "AdwCleaner",
+      "aliases": [
+        "AdwCleaner"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Spybot Search and Destroy",
+      "aliases": [
+        "Spybot Search and Destroy"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "RogueKiller",
+      "aliases": [
+        "RogueKiller"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Emsisoft Anti-Malware",
+      "aliases": [
+        "Emsisoft Anti-Malware"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Dr.Web Security Space",
+      "aliases": [
+        "Dr.Web Security Space"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "VIPRE Advanced Security",
+      "aliases": [
+        "VIPRE Advanced Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "ZoneAlarm Extreme Security",
+      "aliases": [
+        "ZoneAlarm Extreme Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "Comodo Internet Security",
+      "aliases": [
+        "Comodo Internet Security"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Antivirus"
+    },
+    {
+      "canonical_name": "1Password",
+      "aliases": [
+        "1Password"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Bitwarden",
+      "aliases": [
+        "Bitwarden"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "KeePass",
+      "aliases": [
+        "KeePass"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "KeePassXC",
+      "aliases": [
+        "KeePassXC"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "LastPass",
+      "aliases": [
+        "LastPass"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Dashlane",
+      "aliases": [
+        "Dashlane"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "NordPass",
+      "aliases": [
+        "NordPass"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Proton Pass",
+      "aliases": [
+        "Proton Pass"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Enpass",
+      "aliases": [
+        "Enpass"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "RoboForm",
+      "aliases": [
+        "RoboForm"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Sticky Password",
+      "aliases": [
+        "Sticky Password"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Password Safe",
+      "aliases": [
+        "Password Safe"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Buttercup",
+      "aliases": [
+        "Buttercup"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Password Boss",
+      "aliases": [
+        "Password Boss"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "Zoho Vault",
+      "aliases": [
+        "Vault"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "KeeWeb",
+      "aliases": [
+        "KeeWeb"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "WinAuth",
+      "aliases": [
+        "WinAuth"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "YubiKey Manager",
+      "aliases": [
+        "YubiKey Manager"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Gestionnaire de mots de passe"
+    },
+    {
+      "canonical_name": "VeraCrypt",
+      "aliases": [
+        "VeraCrypt"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "Cryptomator",
+      "aliases": [
+        "Cryptomator"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "AxCrypt",
+      "aliases": [
+        "AxCrypt"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "Gpg4win",
+      "aliases": [
+        "Gpg4win"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "Kleopatra",
+      "aliases": [
+        "Kleopatra"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "OpenPGP Studio",
+      "aliases": [
+        "OpenPGP Studio"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "BleachBit",
+      "aliases": [
+        "BleachBit"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "PrivaZer",
+      "aliases": [
+        "PrivaZer"
+      ],
+      "category": "Sécurité",
+      "subcategory": "Confidentialité"
+    },
+    {
+      "canonical_name": "Oracle VM VirtualBox",
+      "aliases": [
+        "VM VirtualBox"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "VMware Workstation Pro",
+      "aliases": [
+        "Workstation Pro"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "QEMU",
+      "aliases": [
+        "QEMU"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Hyper-V Manager",
+      "aliases": [
+        "Hyper-V Manager"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Windows Sandbox",
+      "aliases": [
+        "Windows Sandbox"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Genymotion",
+      "aliases": [
+        "Genymotion"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "BlueStacks",
+      "aliases": [
+        "BlueStacks"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "NoxPlayer",
+      "aliases": [
+        "NoxPlayer"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "LDPlayer",
+      "aliases": [
+        "LDPlayer"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "MEmu",
+      "aliases": [
+        "MEmu"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Android Emulator",
+      "aliases": [
+        "Android Emulator"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "MuMu Player",
+      "aliases": [
+        "MuMu Player"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "VMware Horizon Client",
+      "aliases": [
+        "Horizon Client"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Microsoft Remote Desktop",
+      "aliases": [
+        "Remote Desktop"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Parallels RAS Client",
+      "aliases": [
+        "Parallels RAS Client"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "VMware Remote Console",
+      "aliases": [
+        "Remote Console"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "VMware Tools",
+      "aliases": [
+        "Tools"
+      ],
+      "category": "Système",
+      "subcategory": "Virtualisation"
+    },
+    {
+      "canonical_name": "Sysinternals Suite",
+      "aliases": [
+        "Sysinternals Suite"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Process Explorer",
+      "aliases": [
+        "Process Explorer"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Process Monitor",
+      "aliases": [
+        "Process Monitor"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Autoruns",
+      "aliases": [
+        "Autoruns"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "TCPView",
+      "aliases": [
+        "TCPView"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "RAMMap",
+      "aliases": [
+        "RAMMap"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "GPU-Z",
+      "aliases": [
+        "GPU-Z"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "CPU-Z",
+      "aliases": [
+        "CPU-Z"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "HWiNFO",
+      "aliases": [
+        "HWiNFO"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Speccy",
+      "aliases": [
+        "Speccy"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "AIDA64",
+      "aliases": [
+        "AIDA64"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "HWMonitor",
+      "aliases": [
+        "HWMonitor"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "CrystalDiskInfo",
+      "aliases": [
+        "CrystalDiskInfo"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "CrystalDiskMark",
+      "aliases": [
+        "CrystalDiskMark"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "GSmartControl",
+      "aliases": [
+        "GSmartControl"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Hard Disk Sentinel",
+      "aliases": [
+        "Hard Disk Sentinel"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "WinDirStat",
+      "aliases": [
+        "WinDirStat"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "TreeSize",
+      "aliases": [
+        "TreeSize"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "WizTree",
+      "aliases": [
+        "WizTree"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Everything",
+      "aliases": [
+        "Everything"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "Microsoft PowerToys",
+      "aliases": [
+        "PowerToys"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "EarTrumpet",
+      "aliases": [
+        "EarTrumpet"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "DisplayFusion",
+      "aliases": [
+        "DisplayFusion"
+      ],
+      "category": "Système",
+      "subcategory": "Diagnostic"
+    },
+    {
+      "canonical_name": "MSI Afterburner",
+      "aliases": [
+        "MSI Afterburner"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "RivaTuner Statistics Server",
+      "aliases": [
+        "RivaTuner Statistics Server"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "FanControl",
+      "aliases": [
+        "FanControl"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "OpenRGB",
+      "aliases": [
+        "OpenRGB"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "SignalRGB",
+      "aliases": [
+        "SignalRGB"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Corsair iCUE",
+      "aliases": [
+        "Corsair iCUE"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Logitech G HUB",
+      "aliases": [
+        "G HUB"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Razer Synapse",
+      "aliases": [
+        "Synapse"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "SteelSeries GG",
+      "aliases": [
+        "SteelSeries GG"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Armoury Crate",
+      "aliases": [
+        "Armoury Crate"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "AMD Software Adrenalin Edition",
+      "aliases": [
+        "Software Adrenalin Edition"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "NVIDIA App",
+      "aliases": [
+        "App"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "GeForce Experience",
+      "aliases": [
+        "GeForce Experience"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Intel Driver and Support Assistant",
+      "aliases": [
+        "Intel Driver and Support Assistant"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "Samsung Magician",
+      "aliases": [
+        "Samsung Magician"
+      ],
+      "category": "Système",
+      "subcategory": "Pilotes et matériel"
+    },
+    {
+      "canonical_name": "7-Zip",
+      "aliases": [
+        "7-Zip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "WinRAR",
+      "aliases": [
+        "WinRAR"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "WinZip",
+      "aliases": [
+        "WinZip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "PeaZip",
+      "aliases": [
+        "PeaZip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Bandizip",
+      "aliases": [
+        "Bandizip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "NanaZip",
+      "aliases": [
+        "NanaZip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "PowerArchiver",
+      "aliases": [
+        "PowerArchiver"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "IZArc",
+      "aliases": [
+        "IZArc"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "B1 Free Archiver",
+      "aliases": [
+        "B1 Free Archiver"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Zipware",
+      "aliases": [
+        "Zipware"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "ExtractNow",
+      "aliases": [
+        "ExtractNow"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Universal Extractor",
+      "aliases": [
+        "Universal Extractor"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "ALZip",
+      "aliases": [
+        "ALZip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Ashampoo ZIP",
+      "aliases": [
+        "Ashampoo ZIP"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "WinArchiver",
+      "aliases": [
+        "WinArchiver"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Hamstersoft ZIP Archiver",
+      "aliases": [
+        "Hamstersoft ZIP Archiver"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "KGB Archiver",
+      "aliases": [
+        "KGB Archiver"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Easy 7-Zip",
+      "aliases": [
+        "Easy 7-Zip"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Compression"
+    },
+    {
+      "canonical_name": "Macrium Reflect",
+      "aliases": [
+        "Macrium Reflect"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "AOMEI Backupper",
+      "aliases": [
+        "Backupper"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "EaseUS Todo Backup",
+      "aliases": [
+        "EaseUS Todo Backup"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "Veeam Agent for Microsoft Windows",
+      "aliases": [
+        "Veeam Agent for Microsoft Windows"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "Clonezilla",
+      "aliases": [
+        "Clonezilla"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "Rufus",
+      "aliases": [
+        "Rufus"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "Ventoy",
+      "aliases": [
+        "Ventoy"
+      ],
+      "category": "Utilitaire",
+      "subcategory": "Sauvegarde"
+    },
+    {
+      "canonical_name": "Steam",
+      "aliases": [
+        "Steam"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Epic Games Launcher",
+      "aliases": [
+        "Epic Games Launcher"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "GOG Galaxy",
+      "aliases": [
+        "GOG Galaxy"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "EA app",
+      "aliases": [
+        "EA app"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Ubisoft Connect",
+      "aliases": [
+        "Ubisoft Connect"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Battle.net",
+      "aliases": [
+        "Battle.net"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Riot Client",
+      "aliases": [
+        "Riot Client"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Xbox app",
+      "aliases": [
+        "Xbox app"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Playnite",
+      "aliases": [
+        "Playnite"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Heroic Games Launcher",
+      "aliases": [
+        "Heroic Games Launcher"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "itch.io",
+      "aliases": [
+        "itch.io"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Amazon Games",
+      "aliases": [
+        "Amazon Games"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Rockstar Games Launcher",
+      "aliases": [
+        "Rockstar Games Launcher"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Game Jolt Client",
+      "aliases": [
+        "Game Jolt Client"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "GeForce NOW",
+      "aliases": [
+        "GeForce NOW"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Humble App",
+      "aliases": [
+        "Humble App"
+      ],
+      "category": "Jeux",
+      "subcategory": "Plateforme et launcher"
+    },
+    {
+      "canonical_name": "Microsoft Flight Simulator",
+      "aliases": [
+        "Flight Simulator"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "X-Plane 12",
+      "aliases": [
+        "X-Plane 12"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "DCS World",
+      "aliases": [
+        "DCS World"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "iRacing",
+      "aliases": [
+        "iRacing"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "Assetto Corsa Competizione",
+      "aliases": [
+        "Assetto Corsa Competizione"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "Euro Truck Simulator 2",
+      "aliases": [
+        "Euro Truck Simulator 2"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "American Truck Simulator",
+      "aliases": [
+        "American Truck Simulator"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "Train Sim World",
+      "aliases": [
+        "Train Sim World"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    },
+    {
+      "canonical_name": "Farming Simulator",
+      "aliases": [
+        "Farming Simulator"
+      ],
+      "category": "Jeux",
+      "subcategory": "Simulation"
+    }
+  ]
+}
